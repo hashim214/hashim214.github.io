@@ -6,3 +6,17 @@ h1 {
 	form {
 		text-align: center;
 	}
+
+    input[type="text"]{
+		border-radius: 200px;
+		width: 300px;
+    }
+	
+#rcorners {
+		border-radius: 25px;
+		background: rgb(200, 250, 200);
+		padding: 20px;
+		width: 400px;
+		height: 120px;
+		}
+		
